@@ -12,3 +12,4 @@ print(raw_data)
 # make array with cals per elf by adding until blank
 # determine which value is the highest
 # print result
+print('hi')
